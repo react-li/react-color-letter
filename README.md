@@ -6,9 +6,8 @@ react-color-letter
 
 
 ```js
-git clone 
+git clone git@github.com:react-li/react-color-letter.git
 npm install
-cd example
 npm start
 ```
 在浏览器中打开 http://localhost:3031 即可查看例子
