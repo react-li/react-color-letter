@@ -15,7 +15,7 @@ npm start
 
 ## demo
 
-```
+```js
 import React from 'react';
 import ReactDOM from 'react-dom';
 import ColorLetter from 'react-color-letter';
