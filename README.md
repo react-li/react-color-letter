@@ -2,7 +2,7 @@ react-color-letter
 ===
 彩色背景字母
 
-
+![](./example/demo.png)
 
 
 ```js
