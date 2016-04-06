@@ -1,6 +1,6 @@
 {
   "name": "react-color-letter",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "",
   "main": "dist/colorLetter.js",
   "scripts": {
