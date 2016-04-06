@@ -22,9 +22,9 @@ import ColorLetter from 'react-color-letter'
 
 
 <ColorLetter 
-  name="Julian"
+  name="A"
   size={50}
-  radius={20}
+  radius={50}
 />
 ```
 
